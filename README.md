@@ -43,3 +43,7 @@ cd keylogger-python.git
 ```bash
 pip install pynput
 ```
+## Ethical Considerations
+
+This project is intended **only for educational purposes**.  
+Unauthorized use of keylogging techniques may violate privacy and legal regulations. Always ensure proper consent before using such tools.
