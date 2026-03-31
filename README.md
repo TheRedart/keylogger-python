@@ -38,3 +38,8 @@ The project is designed for educational purposes to understand event-driven prog
 ```bash
 git clone https://github.com/TheRedart/keylogger-python.git
 cd keylogger-python.git
+```
+## Installation Depencies
+```bash
+pip install pynput
+```
