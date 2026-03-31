@@ -36,5 +36,5 @@ The project is designed for educational purposes to understand event-driven prog
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/keyboard-event-tracker.git
-cd keyboard-event-tracker
+git clone https://github.com/TheRedart/keylogger-python.git
+cd keylogger-python.git
